@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace WebApiTest.Controllers
 {
     [Route("api/[controller]")]
+    //ValuesController class
     public class ValuesController : Controller
     {
         // GET api/values
