@@ -9,7 +9,7 @@ namespace WebApiTest.Controllers
     [Route("api/[controller]")]
     //ValuesController class test5
     public class ValuesController : Controller
-    {
+    { 
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
